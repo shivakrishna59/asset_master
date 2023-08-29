@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 source venv/scripts/activate
 
 cd /var/lib/jenkins/workspace/django-cicd
