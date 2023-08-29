@@ -1,6 +1,5 @@
 sudo apt-get update -y
 
-
 wget -q -0 - https://pkg.jenkins.io/debain-stable/jenkins.io.key |
   sudo apt-key add -
 sudo sh -c 'echo deb https://pkg.jenkins.io/debain-stable binary/ > \

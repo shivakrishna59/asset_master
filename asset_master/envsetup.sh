@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if [ -d "venv" ]
 then
     echo "Python virtual environment exists."
